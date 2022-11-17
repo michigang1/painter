@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">oop-lab-3</string>
+    <string name="action_ellipse">Ellipse</string>
+    <string name="action_square">Square</string>
+    <string name="action_rectangle">Rectangle</string>
+    <string name="action_point">Point</string>
+    <string name="action_line">Line</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+	<string name="action_cube">Cube</string>
+	<string name="action_lineOO">Line between circles</string>
+</resources>
